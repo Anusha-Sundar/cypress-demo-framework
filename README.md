@@ -4,30 +4,6 @@
 
 > Cypress demo framework exploring features given in [Cypress website](https://docs.cypress.io/)
 
-### 💻 Topics
-
-- [x] Mocha Structure
-- [x] Mocha Hooks
-- [x] Retry Ability
-- [X] Cy.Request(For API testing)
-- [X] Write and Read a file.
-- [X] Page Object Model
-- [X] Browser, Arch, and DOM commands.
-- [X] Locators
-- [X] Location Methods(URL Validation)
-- [X] Cy.Intercept(To mock and stub APIs)
-- [X] Fixtures
-- [X] Data Driven Testing
-- [X] Cypress Studio Review
-- [X] Cypress Custom Commands
-- [X] Cypress Assertions
-- [X] Cypress variables and aliases.
-- [X] Plugins: Browserstack, Mochawesome Reporter, Cypress Grep, Xpath
-- [X] Dockerfile added.
-- [X] Jenkinsfile added.
-- [X] Github Actions & Gitlab CI/CD yml files.
-- [X] Typescript Configuration
-
  
 ## 💻 Pre-requisites
 
